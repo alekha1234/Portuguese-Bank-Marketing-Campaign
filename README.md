@@ -1,6 +1,5 @@
 # Portuguese Bank Marketing
-
-Suggestions to the Portuguese Bank market team to make  customers  buy the product.
+![image](https://github.com/alekha1234/Portuguese_Bank/assets/131946539/c0a0eb4a-aeee-46aa-be54-43749db06256)
 
           ____DataSet Details___
 - **Age** :- Age of Bank Customers.
